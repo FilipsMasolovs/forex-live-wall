@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="forex-live-wall--currency-data"
+>
+  <h2>
+    USD/JPY
+  </h2>
+  <h3>
+    Price: 
+    112.986
+  </h3>
+  <h3
+    className="negative"
+  >
+    Change: 
+    <span>
+      -0.002093
+    </span>
+  </h3>
+</div>
+`;

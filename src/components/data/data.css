@@ -1,0 +1,16 @@
+.forex-live-wall--currency-data {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    gap: 8px;
+    height: 100px;
+    padding: 0 16px;
+}
+
+.positive span {
+    color: rgb(22, 161, 41);
+}
+
+.negative span {
+    color: rgb(161, 22, 22);
+}

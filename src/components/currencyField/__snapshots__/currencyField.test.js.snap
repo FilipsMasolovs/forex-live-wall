@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<select
+  className="forex-live-wall--currency-select"
+  onChange={[Function]}
+  required={true}
+>
+  <option
+    disabled={true}
+    value=""
+  >
+    Choose a Currency Pair
+  </option>
+  <option
+    value="EUR/USD"
+  >
+    EUR/USD
+  </option>
+  <option
+    value="USD/JPY"
+  >
+    USD/JPY
+  </option>
+  <option
+    value="GBP/USD"
+  >
+    GBP/USD
+  </option>
+</select>
+`;

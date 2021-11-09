@@ -1,0 +1,13 @@
+.forex-live-wall--button {
+    background-color: #3375f4;
+    color: #ffffff;
+    border: none;
+    padding: 8px 16px;
+    font-size: 1.4em;
+    cursor: pointer;
+    transition: background-color .4s ease;
+}
+
+.forex-live-wall--button:hover {
+    background-color: #204c9e;
+}
