@@ -19,7 +19,7 @@ The page will reload if you make edits.
 
 ### `npm test`
 
-Runs all jest unit tests.\
+Runs all jest unit tests.
 
 ### `npm run-script build`
 
